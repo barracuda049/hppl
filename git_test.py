@@ -10,11 +10,3 @@ print('sadasd')
 
 print('sadasdffdgsg')
 
-
-print('Checjfdsf')
-
-print('Check 1 ')
-
-print('Check new branch')
-
-print('Add new data to new_branch')
