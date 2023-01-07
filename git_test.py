@@ -14,3 +14,7 @@ print('sadasdffdgsg')
 print('Checjfdsf')
 
 print('Check 1 ')
+
+print('Lalalal')
+
+print('Lalalal2')
