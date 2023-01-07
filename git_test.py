@@ -14,9 +14,3 @@ print('sadasdffdgsg')
 print('Checjfdsf')
 
 print('Check 1 ')
-
-print('Some changes in main')
-
-print('Another changes in main')
-
-print('Another changes in main')
