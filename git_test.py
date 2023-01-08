@@ -21,3 +21,5 @@ print('Lalalal2')
 print('Check 1 ')
 
 print('Add changes to push')
+
+print('Add changes to push onli git_test.py')
