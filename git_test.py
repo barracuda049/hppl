@@ -1,10 +1,9 @@
-print('Second commit')
-print('Not to add')
-print('Check git add -p')
+print('This is main')
+print('This is fix2')
 
-print('Hmm')
+print('Some feature')
 
-print('Apply cherry-pick')
+print('Add some new fix new fix in the fix branch')
 
 print('sadasd')
 
@@ -25,3 +24,5 @@ print('Add changes to push')
 print('Add changes to push onli git_test.py')
 
 print("Hello from pc")
+
+print('Add new functions to check --no-ff')
