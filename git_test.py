@@ -26,3 +26,5 @@ print('Add changes to push onli git_test.py')
 print("Hello from pc")
 
 print('Add new functions to check --no-ff')
+
+print('Add som new functional')
