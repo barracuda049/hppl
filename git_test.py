@@ -31,3 +31,5 @@ print('Add som new functional')
 
 print('Add som new functional2')
 print('Add som new functional3')
+
+print('It was successful pull request')
