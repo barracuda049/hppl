@@ -28,3 +28,6 @@ print("Hello from pc")
 print('Add new functions to check --no-ff')
 
 print('Add som new functional')
+
+print('Add som new functional2')
+print('Add som new functional3')
